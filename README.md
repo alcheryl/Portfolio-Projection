@@ -12,25 +12,7 @@ The analysis was developed where teams acted as equity investment funds construc
 
 ## Repository Structure
 
-### 1. Techcombank Valuation Model
-
-**File:** `Equity Research.xlsx`
-
-Comprehensive financial model for Techcombank (TCB), including:
-
-* Revenue and earnings forecasting.
-* FCFE Discounted Cash Flow valuation.
-* Comparable valuation (P/E and P/B).
-* Scenario analysis.
-* Sensitivity analysis.
-* Financial ratio analysis.
-* Target price estimation.
-
-The model was built to support the equity research thesis and investment recommendation.
-
----
-
-### 2. TCB Research Report
+### 1. Techcombank Research Report
 
 **File:** `Equity Research.pdf`
 
@@ -49,25 +31,25 @@ The report concludes with a BUY recommendation based on intrinsic valuation and 
 
 ---
 
-### 3. Portfolio Projection & Simulation
+### 2. Techcombank Valuation Model
 
-**File:** `Portfolio Projection.ipynb`
+**File:** `Equity Research.xlsx`
 
-Python notebook used for portfolio analytics and quantitative modeling.
+Comprehensive financial model for Techcombank (TCB), including:
 
-Key methodologies include:
-
-* Black-Litterman portfolio optimization.
-* Backtesting analysis using Fama-French Framework.
+* Revenue and earnings forecasting.
+* FCFE Discounted Cash Flow valuation.
+* Comparable valuation (P/E and P/B).
 * Scenario analysis.
-* Monte Carlo simulation.
-* Portfolio return projection.
-* Risk-adjusted performance measurement.
-* Performance attribution.
+* Sensitivity analysis.
+* Financial ratio analysis.
+* Target price estimation.
+
+The model was built to support the equity research thesis and investment recommendation.
 
 ---
 
-### 4. Portfolio Strategy Report
+### 3. Portfolio Strategy Report
 
 **File:** `Portfolio Projection.pdf`
 
@@ -91,8 +73,6 @@ Selected sectors & stocks:
 * Consumer Discretionary (MWG).
 * Real Estate (SIP, KBC).
 
-## Investment Thesis Summary
-
 The overall investment strategy focused on identifying high-quality Vietnamese growth equities positioned to benefit from:
 
 * Vietnam’s macroeconomic expansion.
@@ -103,6 +83,24 @@ The overall investment strategy focused on identifying high-quality Vietnamese g
 * FDI-driven industrial growth.
 
 The portfolio targeted medium-to-high risk investors seeking long-term capital appreciation with disciplined risk management.
+
+---
+
+### 4. Portfolio Projection & Simulation
+
+**File:** `Portfolio Projection.ipynb`
+
+Python notebook used for portfolio analytics and quantitative modeling.
+
+Key methodologies include:
+
+* Black-Litterman portfolio optimization.
+* Backtesting analysis using Fama-French Framework.
+* Scenario analysis.
+* Monte Carlo simulation.
+* Portfolio return projection.
+* Risk-adjusted performance measurement.
+* Performance attribution.
 
 ## Disclaimer
 
