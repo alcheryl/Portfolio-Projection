@@ -66,13 +66,6 @@ Main contents include:
 * Risk management framework.
 * Performance measurement and attribution.
 
-Selected sectors & stocks:
-
-* Financials (TCB, VCB).
-* Materials (HPG).
-* Consumer Discretionary (MWG).
-* Real Estate (SIP, KBC).
-
 The overall investment strategy focused on identifying high-quality Vietnamese growth equities positioned to benefit from:
 
 * Vietnam’s macroeconomic expansion.
@@ -83,6 +76,13 @@ The overall investment strategy focused on identifying high-quality Vietnamese g
 * FDI-driven industrial growth.
 
 The portfolio targeted medium-to-high risk investors seeking long-term capital appreciation with disciplined risk management.
+
+Selected sectors & stocks:
+
+* Financials (TCB, VCB).
+* Materials (HPG).
+* Consumer Discretionary (MWG).
+* Real Estate (SIP, KBC).
 
 ---
 
