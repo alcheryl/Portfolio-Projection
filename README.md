@@ -102,6 +102,13 @@ Key methodologies include:
 * Risk-adjusted performance measurement.
 * Performance attribution.
 
+--- 
+
+### 5. Market Data
+**File:** `Simplize_VNINDEX_PriceHistory_20260506 (1).xlsx`
+
+Historical VN-Index price data used as the benchmark dataset for portfolio construction, backtesting, and performance evaluation within the Python portfolio projection model.
+
 ## Disclaimer
 
 This project was developed for academic purposes only. The analyses, valuations, and investment recommendations presented in this repository do not constitute financial advice or investment recommendations.
